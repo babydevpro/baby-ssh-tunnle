@@ -43,6 +43,8 @@ Baby SSH Tunnel is an automated script for setting up and managing SSH tunnels b
 ### Quick Install
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/baby-ssh-tunnel/main/baby-tunnel.sh
+wget https://raw.githubusercontent.com/babydevpro/baby-ssh-tunnel/main/baby-tunnel.sh
+
 chmod +x baby-tunnel.sh
+
 ./baby-tunnel.sh
